@@ -1,5 +1,5 @@
 import React from "react"
-import Web from "../assets/web.svg"
+import Web from "../assets/Web.svg"
 import UX from "../assets/UX.svg"
 import seo from "../assets/seo.svg"
 import graphics from "../assets/graphics.svg"
