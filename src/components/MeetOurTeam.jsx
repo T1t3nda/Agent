@@ -6,7 +6,7 @@ import {
   FaInstagram,
 } from "react-icons/fa"
 import jane from "../assets/jane.svg"
-import kristin from "../assets/kristin.svg"
+import kristin from "../assets/Kristin.svg"
 import brooklyn from "../assets/Brooklyn.svg"
 import guy from "../assets/Guy.svg"
 
